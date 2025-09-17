@@ -13,7 +13,7 @@ scenario_data = {
         "Range per tank/charge (km)": [140, 120, 250],
         "Cost per Km (₹/100km)": [35, 48, 250],
         "Life span (in months)": [72, 48, 84],
-        "Operational Cost (g/km)": [42, 56, 54]
+        "Operational CO2 (g/km)": [42, 56, 54]
     }),
     "Average": pd.DataFrame({
         "Vehicle": ["SPEV", "E-Rick", "Fuel"],
@@ -21,7 +21,7 @@ scenario_data = {
         "Range per tank/charge (km)": [120, 100, 200],
         "Cost per Km (₹/100km)": [48, 64, 275],
         "Life span (in months)": [66, 30, 78],
-        "Operational Cost (g/km)": [48, 64, 57.5]
+        "Operational CO2 (g/km)": [48, 64, 57.5]
     }),
     "Worst": pd.DataFrame({
         "Vehicle": ["SPEV", "E-Rick", "Fuel"],
@@ -29,7 +29,7 @@ scenario_data = {
         "Range per tank/charge (km)": [100, 80, 150],
         "Cost per Km (₹/100km)": [60, 80, 300],
         "Life span (in months)": [60, 18, 60],
-        "Operational Cost (g/km)": [52, 68, 64]
+        "Operational CO2 (g/km)": [52, 68, 64]
     })
 }
 
