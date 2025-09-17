@@ -11,7 +11,7 @@ scenario_data = {
         "Vehicle": ["SPEV", "E-Rick", "Fuel"],
         "Initial Cost (₹, in K)": [110, 80, 200],
         "Range per tank/charge (km)": [140, 120, 250],
-        "Cost per Km (₹/100km)": [35, 48, 250],
+        "Cost per 100Km (₹)": [35, 48, 250],
         "Life span (in months)": [72, 48, 84],
         "Operational CO2 (g/km)": [42, 56, 54]
     }),
@@ -19,7 +19,7 @@ scenario_data = {
         "Vehicle": ["SPEV", "E-Rick", "Fuel"],
         "Initial Cost (₹, in K)": [135, 95, 220],
         "Range per tank/charge (km)": [120, 100, 200],
-        "Cost per Km (₹/100km)": [48, 64, 275],
+        "Cost per 100Km (₹)": [48, 64, 275],
         "Life span (in months)": [66, 30, 78],
         "Operational CO2 (g/km)": [48, 64, 57.5]
     }),
@@ -27,7 +27,7 @@ scenario_data = {
         "Vehicle": ["SPEV", "E-Rick", "Fuel"],
         "Initial Cost (₹, in K)": [160, 110, 230],
         "Range per tank/charge (km)": [100, 80, 150],
-        "Cost per Km (₹/100km)": [60, 80, 300],
+        "Cost per 100Km (₹)": [60, 80, 300],
         "Life span (in months)": [60, 18, 60],
         "Operational CO2 (g/km)": [52, 68, 64]
     })
